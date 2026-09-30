@@ -1,1 +1,12 @@
-{"games":[]}
+{
+ "games": [
+  {
+   "id": "munvfmx4",
+   "n": "The Hidden Circus",
+   "l": "https://cozy-smakager-6d40f2.netlify.app/",
+   "c": "Survival",
+   "d": "Survive and kill each clown, whoever resists the most is the best.",
+   "i": "covers/munvflfi.jpg"
+  }
+ ]
+}
