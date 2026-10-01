@@ -1,6 +1,14 @@
 {
  "games": [
   {
+   "id": "mup5i44r",
+   "n": "Submarino Vaklum",
+   "l": "https://tranquil-shortbread-0d9103.netlify.app/",
+   "c": "Survival",
+   "d": "Kill the monsters and be the best.",
+   "i": "covers/mup5i2rt.jpg"
+  },
+  {
    "id": "munvfmx4",
    "n": "The Hidden Circus",
    "l": "https://cozy-smakager-6d40f2.netlify.app/",
